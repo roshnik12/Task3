@@ -1,5 +1,4 @@
-# Task3
-Something
+# Task
 ## Generate an API key with given link below<br>
 * https://openweathermap.org/guide<br>
 * Print the current weather data in console- By city name, By city ID, By lat lang<br>
