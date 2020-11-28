@@ -1,5 +1,5 @@
 # Task
-<ul><li>Do the below programs in anonymous function and IIFE</li></ul>
+<ul><li>Do the below programs in anonymous function and IIFE</li>
 <li>Print odd numbers in an array</li>
 <li>Convert all the strings to title caps in a string array</li>
 <li>Sum of all numbers in an array</li>
